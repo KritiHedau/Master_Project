@@ -1,0 +1,3 @@
+Below is the link for ROS Rviz PCD Visualization
+
+https://www.youtube.com/watch?v=atneojH7pvk&feature=youtu.be&fbclid=IwAR2nRHIUEAnzdPYRr6_1WNHzR_ma2XFw-Jl3mMoHBqvkhIUhBUqpN_6ExNo
